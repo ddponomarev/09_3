@@ -9,6 +9,7 @@
 ![Задание1](https://github.com/ddponomarev/09_3/blob/master/img/z1.png)
 
 ![Задание1.2](https://github.com/ddponomarev/09_3/blob/master/img/z1_2.png)
+
 ---
 
 ### Задание 2
