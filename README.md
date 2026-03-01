@@ -19,10 +19,9 @@
 - Резервная копия размещается локально, в директории `/tmp/backup`
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
+ - [backup.sh](https://github.com/ddponomarev/09_3/blob/master/cfg/backup.sh)
 
- - [file_crontab](https://github.com/ddponomarev/09_3/blob/master/cfg/)
-
-![Задание2](https://github.com/ddponomarev/09_3/blob/master/img/z2.png)
+ ![Задание2](https://github.com/ddponomarev/09_3/blob/master/img/z2.png)
 
 ![Задание2.1](https://github.com/ddponomarev/09_3/blob/master/img/z2_1.png)
 
